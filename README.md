@@ -1,79 +1,77 @@
 # 🗡️ Teslimiyet ve Hiçlik
 
-> *"Bıçağın kestiği et değil, mülkiyetin ve nefsin ta kendisidir."*
+> *"Onların ne etleri ne de kanları asla Allah'a ulaşır. Fakat O'na sadece sizden takvâ (Allah'a karşı gelmekten sakınma, sorumluluk bilinci) ulaşır..."*  
+> **(Hac Suresi, 22/37)**
 
-**Teslimiyet ve Hiçlik** (`teslimiyet-ve-hiclik`), Kurban kavramının salt bir dini ritüel olmanın ötesindeki ontolojik, felsefi, psikanalitik ve edebi ağırlığını derlemeyi amaçlayan geniş kapsamlı ve açık kaynaklı bir düşünce arşividir. 
+**Teslimiyet ve Hiçlik** (`teslimiyet-ve-hiclik`), Kurban kavramının şeklî bir ibadetin ötesindeki Kur'anî, irfanî ve tasavvufi ağırlığını; insanın Rabb'ine karşı teslimiyetini ve nefsini feda ederek hiçliğe (fena makamına) ulaşmasını derlemeyi amaçlayan bir düşünce arşividir. 
 
 ## 🌌 Projenin Amacı ve Felsefesi
 
-Arapça kökeni itibarıyla **"yakınlaşmak"** (K-R-B) anlamına gelen Kurban; insanın sahip olduğu veya sahip olduğunu sandığı dünyevi bağlardan sıyrılarak *Mutlak Olan'a* veya kendi gerçek hakikatine yakınlaşma çabasıdır. Kurban, var olan bir şeyi yok etmek değil, onu daha yüce bir anlam uğruna dönüştürmek, ondan vazgeçerek asıl özgürlüğe kavuşmaktır.
+Arapça kökeni itibarıyla **"yakınlaşmak" (Kurbiyet/K-R-B)** anlamına gelen Kurban; insanın sahip olduğu veya sahip olduğunu sandığı dünyevi bağlardan, en çok sevdiği şeylerden ve kalbini Allah'tan alıkoyan masivadan (Allah dışındaki her şeyden) sıyrılarak Mutlak Yaratıcı'ya yakınlaşma çabasıdır. Kurban, var olan bir şeyi yok etmek değil; onu daha yüce bir anlam uğruna Allah'a sunmak, kendi cüz'i iradesinden vazgeçerek Külli İrade'ye tam bir teslimiyet göstermektir.
 
-Bu depo, inancın akılla ve mantıkla girdiği o zorlu sınavı, varlığın hiçliğe karıştığı "teslimiyet" makamını farklı disiplinlerin merceğinden anlamlandırmaya çalışır. Søren Kierkegaard'ın varoluşu "inanç sıçraması"ndan, Ali Şeriati'nin metaforik "İsmail" arayışına; Divan edebiyatının ve Hallac-ı Mansur'un canı feda etme motiflerinden, modern insanın performans kültürüne kurban edilişine, Lacanyen psikanalizde arzuyu var etmek için feda edilenlere kadar çok geniş bir yelpazeyi kapsar.
+Bu depo, inancın en büyük sınavı olan "teslimiyet" makamını İslam düşünce geleneğinin, Kur'an ayetlerinin ve büyük mutasavvıfların merceğinden anlamlandırmaya çalışır. Hz. İbrahim ve Hz. İsmail'in Saffat Suresi'nde anlatılan muazzam itaatinden, İmam Gazzali'nin kurbanın sırlarına dair uyarılarına; İbn Arabi'nin Vahdet-i Vücud anlayışındaki mutlak hiçlikten, Ali Şeriati'nin modern putlara (İsmaillere) karşı geliştirdiği Hacc felsefesine kadar geniş bir tevhidi yelpazeyi kapsar.
 
-Amaç; kan dökmek ve et dağıtmak bağlamına sıkıştırılmış bir eylemi, **"Neyimden vazgeçebilirim?", "Neyin uğruna kendimi feda ediyorum?" ve "Teslim olduğum şey hakikat mi, yoksa bir illüzyon mu?"** soruları etrafında felsefi bir okumaya tabi tutmaktır.
+Amaç; kurbanı kan dökmek ve et dağıtmak bağlamına sıkıştırılmış bir eylemden çıkarıp, **"Nefsimden nasıl vazgeçebilirim?", "İçimdeki putları nasıl boğazlarım?" ve "Hakiki manada Allah'a nasıl teslim olurum?"** soruları etrafında İslami bir okumaya tabi tutmaktır.
 
 ---
 
-## 🏛️ Çok Katmanlı Felsefi, İrfani ve Psikolojik Boyutlar
+## 🕌 Kur'an ve Sünnet Çizgisinde Kurban ve Teslimiyet
 
-Teslimiyet ve hiçlik teması, sadece teolojik bir mesele değil; aynı zamanda insanın evrenle, kendi zihniyle ve moderniteyle kurduğu ilişkinin merkezinde yer alır.
+### 1. Kur'an'da Takva ve Kurbiyet (Hac 37 ve Saffat 102)
+Kur'an-ı Kerim, kurbanın et ve kan değil, bütünüyle **takva** (sorumluluk bilinci ve kalbin temizliği) olduğunu vurgular (Hac 37). Saffat Suresi 102. ayette ise teslimiyetin şahikası anlatılır: Hz. İbrahim, Allah'ın emrine itaat ederek ciğerparesi İsmail'i kurban etmeye kalktığında; Hz. İsmail hiçbir tereddüt göstermeden *"Babacığım, emrolunduğun şeyi yap. İnşallah beni sabredenlerden bulacaksın"* diyerek mutlak itaati göstermiştir. Kurban, insanın gerektiğinde Allah için en sevdiğinden geçebileceğinin sembolik ilanıdır.
 
-### 1. Søren Kierkegaard ve İnanç Sıçraması (Varoluşçuluk)
-Kierkegaard, *Korku ve Titreme* adlı eserinde Hz. İbrahim'i "imanın şövalyesi" olarak tanımlar. İbrahim'in eylemi, genel geçer ahlak kurallarının (etiğin) "teleolojik olarak askıya alınması"dır. Akıl ve mantığın bittiği yerde İbrahim, Tanrı ile doğrudan, aracı olmaksızın bir ilişki kurarak bir "inanç sıçraması" (qualitative leap) gerçekleştirir. Bu sıçrama, büyük bir varoluşsal kaygıyı (korku ve titremeyi) barındırsa da, absürt olanın kabulüyle gerçek imana ulaşmanın tek yoludur. Burada kurban edilen yalnızca İshak (veya İsmail) değil, "aklın" ta kendisidir.
+### 2. İmam Gazzali: İhyâ'da Kurbanın Sırları
+İslam hücceti İmam Gazzali'ye göre kurban, kulun Allah’a olan bağlılığını ve dünyevi varlıklardan vazgeçebileceğini fiilen ispatlamasıdır. Kurban, kişinin içindeki cimriliği, dünya sevgisini ve nefsani arzuları boğazlaması anlamına gelir. İbadetin zahirini (dış kurallarını) yerine getirmek farz iken, asıl maksat olan batınına (içsel sırrına) erişmek, ancak kişinin hayvanla birlikte kendi kibir ve egosunu da kurban etmesiyle mümkündür.
 
-### 2. Ali Şeriati ve "Senin İsmail'in Kim?" (Sosyolojik Teoloji)
-*Hacc* kitabında Şeriati, kurbanı fıkhî bir ritüelden çıkarıp ahlaki bir varoluş sorgulamasına dönüştürür. Ona göre Mina'da koyun kesmek sadece "kasaplık"tır; asıl mesele kişinin kendi "İsmail"ini bulup kurban edebilmesidir. İsmail; kişinin makamı, şöhreti, parası, kibri, yani onu Mutlak Hakikat'ten alıkoyan "en değerli" gördüğü her şeydir. Özgürleşmek, ancak en sevdiğini hakikat uğruna feda edebilecek iradeyi göstermekle mümkündür.
+### 3. İbn Arabî ve Vahdet-i Vücud'da "Hiçlik" (Fena Fillah)
+Şeyhül Ekber Muhyiddin İbn Arabî'nin varlık anlayışında Mutlak Varlık yalnızca Allah'tır. Kurban, insanın kendi sınırlı benliğini (egosunu) ve "ben varım" zannını Hakk'ın mutlak varlığında eritmesi sürecidir. "Hiçlik", bir yok oluş veya değersizlik değil; aksine gerçek varlığa (Allah'a) yer açmak için sahte benliğin aradan çekilmesidir. Kendi sahte benliğini hiçleştiren (fena makamına ulaşan) sâlik, her şeyin O'ndan gelip O'na döndüğünü müşahede eder.
 
-### 3. Tasavvuf, Hallac-ı Mansur ve Fena Fillah (Mistisizm)
-Tasavvufi gelenekte kurban, kulun kendi cüz'i iradesini Allah'ın külli iradesinde eritmesi, yani nefsini ve benliğini "boğazlaması"dır. Kendi kibrini "kurban" eden sâlik, *fena fillah* (Allah'ta yok olma) mertebesine ulaşır. Bunun en çarpıcı örneği **Hallac-ı Mansur**'dur. *Enel Hak* (Ben Hakk'ım) nidası, bir ilahlık iddiası değil, "Ben yokum, sadece O var" diyen mutlak hiçlik feryadıdır. Hallac, ilahi aşka teslimiyetin bedelini kendi fiziksel varlığını kurban ederek ödemiştir. Onun paramparça edilen bedeni, ruhun sahte kalıplardan kurtuluşunun simgesidir.
+### 4. Hallac-ı Mansur ve Hak Yolu'nda Canı Feda Etmek
+Tasavvufta teslimiyetin en çarpıcı örneği Hallac-ı Mansur'dur. *Enel Hak* (Ben Hakk'ım) nidası, bir ilahlık iddiası değil; "Ben yokum, sadece O (Hak) var" diyen vahdet sarhoşluğunun ve mutlak hiçliğin ifadesidir. Hallac, bedenini ve canını ilahi aşk uğruna kurban ederek, nefsi feda etmenin tasavvuf tarihindeki en trajik ve sembolik örneğini miras bırakmıştır.
 
-### 4. Budizm'de Şunyata (Boşluk) ve Vazgeçme (Doğu Felsefesi)
-Budizm, geleneksel anlamda kan dökülen kurban ritüellerini reddeder. Bunun yerine kurbanı zihinsel bir pratiğe dönüştürür. *Şunyata* (Hiçlik/Boşluk) kavramı, varlığın tamamen yok olması değil, şeylerin "bağımsız, değişmez bir öze" sahip olmadığının idrak edilmesidir. Nihilizmden farklı olarak Şunyata, şefkatin doğduğu potansiyel alanıdır. Budizm'de en büyük "kurban", insanın kendi bencil egosunu (benlik illüzyonunu) ve bitmek bilmez arzularını feda etmesidir. Ancak bu vazgeçiş sayesinde gerçek "Nirvana"ya ulaşılır.
+---
 
-### 5. Jacques Lacan: Eksiklik (Manque), Arzu ve Kurban Etme (Psikanaliz)
-Psikanalitik açıdan kurban etme, öznenin inşasında temel bir yapı taşıdır. Lacan'a göre insan, dil (simgesel düzen) dünyasına girerken doğal, eksiksiz bir bütünlüğü geride bırakır ve kalıcı bir "eksiklik" (manque) ile yaralanır. Arzu, bu eksikliğin sürekli devinimidir. Lacan, öznenin arzusuna sadık kalabilmesi için yıkıcı, ilkel ve sınırsız haz olan *Jouissance*’ı feda etmesi gerektiğini söyler. Sophokles’in *Antigone*’si üzerinden verdiği örnekte Antigone, kendi arzusunun etiği uğruna kendi hayatını ve toplumsal güvenliğini kurban etmekten çekinmeyen trajik bir kahramandır. Arzudan vazgeçmemek, bedeli olan bir kurban eylemidir.
+## 🪞 Kurbanın Modern Çağdaki Yansımaları
 
-### 6. Byung-Chul Han: Performans Toplumunda Öz-Sömürü ve Kurban (Modernite Eleştirisi)
-Modern çağda kurban ritüeli ortadan kalkmamış, şekil değiştirmiştir. Filozof Byung-Chul Han, *Tükenmişlik Toplumu* adlı eserinde, modern insanın dışarıdan gelen bir zorlama olmaksızın kendi kendini nasıl kurban ettiğini anlatır. Geleneksel disiplin toplumunun yerini alan "performans toplumu"nda insan, "yapabilirim" (Yes, we can) illüzyonu ile kendi kendisinin girişimcisi olur. İnsan, kapitalizmin görünmez sunaklarında kendi ruh sağlığını, zamanını ve enerjisini gönüllü olarak kurban eder; bu oto-sömürü süreci depresyon, tükenmişlik ve dikkat eksikliği ile sonuçlanır. Modern insan, yanlış bir "İsmail"in, yani sistemin başarısının peşinde bizzat kendini boğazlamaktadır.
+### 1. Ali Şeriati: "Senin İsmail'in Kim?"
+Ali Şeriati, *Hacc* kitabında kurbanı sosyolojik ve ahlaki bir varoluş krizine uyarlar. Hacıya şu can alıcı soruyu sorar: *"Senin İsmail'in kim?"* İsmail; kişinin makamı, şöhreti, parası, güzelliği veya gençliğidir. Yani Allah'a giden yolda insanı alıkoyan, "en değerli" gördüğü her ne varsa onun "İsmail"idir. Haccın ruhu, o İsmail'i Mina'da kurban edebilmektir. Aksi halde yapılan iş sadece kasaplıktır.
+
+### 2. Modern Putlar ve Tükenmişlik (İslami Bir Okuma)
+Modern insan, Allah'a teslim olmaktan kaçarken, kapitalizmin ve kendi hırslarının kölesi olmuştur. Filozof Byung-Chul Han'ın "Tükenmişlik Toplumu"nda anlattığı gibi, modern birey "başarı", "performans" ve "statü" gibi sahte ilahların (modern İsmaillerin) uğruna kendi ruhunu ve bedenini gönüllü olarak kurban etmektedir. İslam'ın tevhid inancı (La ilahe illallah), insanı bu sahte putlara kul olmaktan kurtarıp, yalnızca Allah'a teslim olarak özgürleştiren yegane yoldur.
 
 ---
 
 ## 📂 Depo İçeriği
 
-Bu arşiv, ziyaretçilerin felsefi okumalar yapabilmesi için belirli bir hiyerarşiye göre düzenlenmiştir:
+Bu arşiv, kurban ve teslimiyet kavramlarının derinliklerini inceleyebilmek için aşağıdaki hiyerarşide düzenlenmiştir:
 
-*   📜 **`felsefi_metinler/`**: Varoluşçulukta, Doğu düşüncesinde ve İslam felsefesinde kurban kavramı. (Kierkegaard, Gazzali, İbn Arabi okumaları)
-*   🖋️ **`edebi_yansimalar/`**: Şiirlerde, mesnevilerde ve modern romanlarda kurban, teslimiyet ve adanmışlık temaları. (Hallac-ı Mansur, Fuzuli, Yunus Emre)
-*   🧠 **`psikanaliz_ve_modernite/`**: Lacan'ın eksiklik teorisinde vazgeçiş, Byung-Chul Han okumaları ve performans toplumunda gönüllü kurban olma halleri.
-*   🪞 **`ismailini_bulmak/`**: Sosyolojik ve psikolojik bir yaklaşımla, modern çağda insanın kendi "İsmail"lerini (kariyer, para, statü, ego) kurban etme pratiği.
-*   💬 **`alintilar.md`**: Konuyla ilgili düşünür, filozof ve şairlerin özenle seçilmiş aforizmaları.
+*   📖 **`kuran_ve_sunnet/`**: Kur'an ayetleri tefsirleri (Hac ve Saffat sureleri), Hadis-i Şerifler ışığında kurban ve takva.
+*   📜 **`tasavvuf_ve_irfan/`**: İmam Gazzali, İbn Arabi, Hallac-ı Mansur ve mutasavvıfların hiçlik, fena fillah ve nefsi kurban etme üzerine yazıları.
+*   🖋️ **`edebi_yansimalar/`**: Şiirlerde ve mesnevilerde ilahi aşk uğruna canı feda etme temaları. (Mevlana, Fuzuli, Yunus Emre)
+*   🪞 **`ismailini_bulmak/`**: Ali Şeriati okumaları, sosyolojik değerlendirmeler, modern çağın putları ve insanın kendini dünyaya kurban etmesi üzerine eleştiriler.
+*   💬 **`alintilar.md`**: İslam alimlerinden, mutasavvıflardan ve düşünürlerden kurban, hiçlik ve teslimiyet üzerine vurucu aforizmalar.
 
 ---
 
-## 📖 Ruhun Aynasından Çarpıcı Alıntılar
+## 📖 Hakikat Aynasından Alıntılar
 
-Bu depoya yön veren temel düşünce hatlarından bazıları:
-
-> *"Eğer inanç olmasaydı, İbrahim'in eylemi sıradan bir cinayet olurdu; inanç, onu bir kurban eylemine dönüştürdü. İbrahim'i büyük yapan şey, gücü değil, gücünün yetersizliğidir; bilgeliği değil, inancının akıl almazlığıdır."*  
-> **- Søren Kierkegaard (Korku ve Titreme)**
+> *"Çocuk kendisiyle birlikte koşup yürüyecek çağa gelince İbrahim ona, 'Yavrum, ben rüyamda seni boğazladığımı gördüm. Düşün bakalım, ne dersin?' dedi. O da, 'Babacığım, emrolunduğun şeyi yap. İnşallah beni sabredenlerden bulacaksın' dedi."*  
+> **- Saffat Suresi, 37/102**
 
 > *"Senin İsmail'in kimdir? Kendin bileceksin. Başkası bilemez. Belki eşin, işin, yeteneğin, gücün, statündür... Senin zayıf noktan neyse, seni yolda alıkoyan neyse, İsmail'in odur. Onu kurban etmelisin ki zincirlerinden kurtulasın."*  
 > **- Ali Şeriati (Hacc)**
 
-> *"Cehennem acı çektiğimiz yer değil, acı çektiğimizi kimsenin duymadığı yerdir. İnsan sadece arzusundan ödün verdiğinde suçlu hisseder."*  
-> **- Jacques Lacan**
-
-> *"Bugünün öznesi kendi kendisinin girişimcisidir. Artık fail ve kurban, sömüren ve sömürülen aynı kişidir. İnsan özgürlük yanılsaması içinde, kendi rızasıyla kendini tükenmişliğe kurban eder."*  
-> **- Byung-Chul Han (Tükenmişlik Toplumu)**
-
 > *"İsmail gibi boynunu uzat ki, bıçak kesmesin. Bıçak, teslim olanı değil, direneni keser."*  
 > **- Mevlânâ Celâleddîn-i Rûmî**
 
-> *"Cânı cânân dilemiş vermemek olmaz ey dil / Ne nizâ eyleyelim ol ne senindir ne benim"*  
-> **- Fuzûlî**
+> *"Kurban, kulun cimriliğini ve dünya sevgisini boğazlamasıdır. Bedenin değil, kalbin haccıdır."*  
+> **- İmam Gazzali (İhyâu Ulûmi’d-Dîn)**
 
 > *"Ben Hak'kım! (Enel Hak) ... Eğer Onu tanımıyorsanız, bari eserlerini tanıyın. İşte o eser benim!"*  
-> **- Hallac-ı Mansur (İdama giderken)**
+> **- Hallac-ı Mansur**
+
+> *"Cânı cânân dilemiş vermemek olmaz ey dil / Ne nizâ eyleyelim ol ne senindir ne benim"*  
+> **- Fuzûlî**
 
 > *"Mal sahibi, mülk sahibi / Hani bunun ilk sahibi? / Mal da yalan, mülk da yalan / Var biraz da sen oyalan."*  
 > **- Yunus Emre**
@@ -82,10 +80,10 @@ Bu depoya yön veren temel düşünce hatlarından bazıları:
 
 ## 🤝 Katkıda Bulunma
 
-Bu depo, düşünen ve okuyan herkese açıktır. Eğer Kurban, teslimiyet, hiçlik, adanmışlık, varoluşsal boşluk ve vazgeçmek üzerine felsefi/edebi/psikanalitik bir metin, makale çevirisi veya vurucu bir alıntı biliyorsanız;
+Bu depo, tefekkür eden, okuyan ve teslimiyetin sırrını arayan herkese açıktır. Eğer Kurban, takva, hiçlik (fena), adanmışlık ve nefsi feda etmek üzerine İslami, tasavvufi bir metin, makale çevirisi veya ayet/hadis/alıntı biliyorsanız;
 
 1. Bu repoyu "Fork"layın.
 2. İlgili klasöre metninizi veya `.md` dosyanızı ekleyin.
 3. Bir "Pull Request" (PR) oluşturun.
 
-*Hiçlikte ve sükûnette buluşmak dileğiyle.*
+*Hiçlikte ve sükûnette, O'nun rızasında buluşmak dileğiyle.*
