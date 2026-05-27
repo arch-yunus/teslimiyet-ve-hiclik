@@ -59,18 +59,25 @@ Kurban Bayramı, İslam sosyolojisi açısından bireysel bir ibadetin ötesinde
 
 ---
 
+<div align="center">
+  <img src="banner2.png" alt="Tasavvuf ve Hiçlik Banner" width="100%" />
+</div>
+
 ## 🕯️ İslam Düşüncesinde ve İrfan Geleneğinde Teslimiyet
 
 ### 1. Rıza Makamı ve Kaza-Kadere Teslimiyet
 Tasavvufun en yüce mertebelerinden biri olan **Rıza makamı**, kulun başa gelen iyi veya kötü her şeyi Allah'ın bir takdiri (Kader) ve icrası (Kaza) olarak görüp sükûnet bulmasıdır. İsyanın, "Neden ben?" sorusunun bittiği yerdir. Gerçek teslimiyet, nimet anındaki şükrün ötesinde, acı ve imtihan anında da (tıpkı kurban olan İsmail gibi) Allah'ın hükmüne razı olabilmektir. Rıza, nefsin en büyük kurban ediliş biçimidir.
 
-### 2. İmam Gazzali: İhyâ'da Kurbanın Sırları
+### 2. Tasavvufta Çile, Seyr-i Sülûk ve Kurbanın Metafizik Evreleri
+Tasavvufta manevi olgunlaşma süreci olan Seyr-i Sülûk, baştan sona bir kurban etme pratiğidir. Bu yolculuk Şeriat (kurallara teslimiyet), Tarikat (nefsin arzularından geçme), Hakikat (varlık zannından sıyrılma) ve nihayetinde Marifet (sadece O'nu bilme) evrelerinden oluşur. Çilehanelerde 40 gün boyunca dünyadan el etek çekmek (Erbain/Halvet), insanın kendi içindeki hayvani dürtüleri manen boğazlayıp ruhani varlığını diriltmesi anlamına gelir.
+
+### 3. İmam Gazzali: İhyâ'da Kurbanın Sırları
 İslam hücceti İmam Gazzali'ye göre kurban, kulun Allah’a olan bağlılığını ve dünyevi varlıklardan vazgeçebileceğini fiilen ispatlamasıdır. Kurban, kişinin içindeki cimriliği, dünya sevgisini ve nefsani arzuları boğazlaması anlamına gelir. İbadetin zahirini (dış kurallarını) yerine getirmek farz iken, asıl maksat olan batınına (içsel sırrına) erişmek, ancak kişinin hayvanla birlikte kendi kibir ve egosunu da kurban etmesiyle mümkündür.
 
-### 3. İbn Arabî ve Vahdet-i Vücud'da "Hiçlik" (Fena Fillah)
+### 4. İbn Arabî ve Vahdet-i Vücud'da "Hiçlik" (Fena Fillah)
 Şeyhül Ekber Muhyiddin İbn Arabî'nin varlık anlayışında Mutlak Varlık yalnızca Allah'tır. Kurban, insanın kendi sınırlı benliğini (egosunu) ve "ben varım" zannını Hakk'ın mutlak varlığında eritmesi sürecidir. "Hiçlik", bir yok oluş veya değersizlik değil; aksine gerçek varlığa (Allah'a) yer açmak için sahte benliğin aradan çekilmesidir. Kendi sahte benliğini hiçleştiren (fena makamına ulaşan) sâlik, her şeyin O'ndan gelip O'na döndüğünü müşahede eder.
 
-### 4. Hallac-ı Mansur ve Hak Yolu'nda Canı Feda Etmek
+### 5. Hallac-ı Mansur ve Hak Yolu'nda Canı Feda Etmek
 Tasavvufta teslimiyetin en çarpıcı örneği Hallac-ı Mansur'dur. *Enel Hak* (Ben Hakk'ım) nidası, bir ilahlık iddiası değil; "Ben yokum, sadece O (Hak) var" diyen vahdet sarhoşluğunun ve mutlak hiçliğin ifadesidir. Hallac, bedenini ve canını ilahi aşk uğruna kurban ederek, nefsi feda etmenin tasavvuf tarihindeki en trajik ve sembolik örneğini miras bırakmıştır.
 
 ---
@@ -80,8 +87,13 @@ Tasavvufta teslimiyetin en çarpıcı örneği Hallac-ı Mansur'dur. *Enel Hak* 
 Edebiyatımızda kurban olma, canı feda etme ve hiçlik temaları, son derece ince metaforlarla işlenmiştir:
 
 *   **Şem ve Pervane (Mum ve Kelebek):** Divan şiirinin en güçlü tasavvufi sembollerinden biridir. *Şem* (mum), ilahi nuru ve hakikati (Allah'ı) temsil ederken; *Pervane*, o nura âşık olan dervişi simgeler. Pervane, ışığa olan aşkından ötürü ateşin etrafında döner ve sonunda kendini alevin içine atarak yanıp kül olur. Bu; bedeni aşk uğruna kurban etmenin ve Fenâ Fillah (Allah'ta yok olma) makamına erişmenin en estetik ifadesidir. Pervane ateşte "hiç" olurken, aslında ebediyete kavuşmuştur.
+*   **Aşk-ı Mecazi'den Aşk-ı Hakiki'ye Geçiş:** Divan şairleri genellikle dünyevi bir güzeli över gibi görünseler de, asıl kastettikleri ilahi güzelliktir (Hüsn-i Mutlak). Mecazi aşktaki acı çekme, reddedilme ve sevgilinin uğruna can feda etme isteği, kulu Allah aşkına hazırlayan bir antrenman gibidir. Leyla'yı seven Mecnun'un en sonunda Leyla'dan geçip Mevla'yı bulması, sahte putların kurban edilerek gerçek aşka ulaşılmasını simgeler.
 
 ---
+
+<div align="center">
+  <img src="banner3.png" alt="Modern Putlar Banner" width="100%" />
+</div>
 
 ## 🪞 Modern Çağın İsmailleri: "Tükenmişlik" ve Putlar
 
