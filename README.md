@@ -9,6 +9,19 @@
 
 **Teslimiyet ve Hiçlik** (`teslimiyet-ve-hiclik`), Kurban (Udhiyye) kavramının şeklî bir ibadetin ve salt bir bayram ritüelinin ötesindeki Kur'anî, irfanî, fıkhî, edebi ve sosyolojik ağırlığını; insanın Rabb'ine karşı teslimiyetini ve nefsini feda ederek hiçliğe (fena makamına) ulaşmasını derlemeyi amaçlayan bir düşünce arşividir. 
 
+## 📌 İçindekiler
+- [Projenin Amacı ve Felsefesi](#-projenin-amacı-ve-felsefesi)
+- [Kur'an, Sünnet ve Fıkıh Çizgisinde Kurban](#-kuran-sünnet-ve-fıkıh-çizgisinde-kurban-udhiyye)
+- [Kurban Bayramı'nın Sosyolojisi ve Ümmet Bilinci](#-kurban-bayramının-sosyolojisi-ve-ümmet-bilinci)
+- [İslam Düşüncesinde ve İrfan Geleneğinde Teslimiyet](#-i̇slam-düşüncesinde-ve-i̇rfan-geleneğinde-teslimiyet)
+- [Divan Edebiyatında Teslimiyetin Estetiği](#-divan-edebiyatında-teslimiyetin-estetiği)
+- [Modern Çağın İsmailleri: "Tükenmişlik" ve Putlar](#-modern-çağın-i̇smailleri-tükenmişlik-ve-putlar)
+- [Hakikat Aynasından Alıntılar](#-hakikat-aynasından-alıntılar)
+- [Depo İçeriği ve Dizin Yapısı](#-depo-i̇çeriği-ve-dizin-yapısı)
+- [Katkıda Bulunma ve Lisans](#-katkıda-bulunma)
+
+---
+
 ## 🌌 Projenin Amacı ve Felsefesi
 
 Arapça kökeni itibarıyla **"yakınlaşmak" (Kurbiyet/K-R-B)** anlamına gelen Kurban; insanın sahip olduğu veya sahip olduğunu sandığı dünyevi bağlardan, en çok sevdiği şeylerden ve kalbini Allah'tan alıkoyan masivadan (Allah dışındaki her şeyden) sıyrılarak Mutlak Yaratıcı'ya yakınlaşma çabasıdır. Kurban, var olan bir şeyi yok etmek değil; onu daha yüce bir anlam uğruna Allah'a sunmak, kendi cüz'i iradesinden vazgeçerek Külli İrade'ye tam bir teslimiyet göstermektir.
@@ -159,20 +172,26 @@ Aşağıdaki alıntılar, bu deponun ruhunu ve felsefesini şekillendiren temel 
 
 Bu arşiv, kurban ve teslimiyet kavramlarının derinliklerini inceleyebilmek için aşağıdaki hiyerarşide düzenlenmiştir:
 
-*   📖 **`kuran_ve_sunnet/`**: Kur'an ayetleri tefsirleri, Hz. Hacer'in teslimiyeti, Hadis-i Şerifler, Veda Haccı uygulamaları ve fıkhî kavramlar.
-*   📜 **`tasavvuf_ve_irfan/`**: İmam Gazzali, İbn Arabi, Hallac-ı Mansur ve mutasavvıfların hiçlik, fena fillah, rıza makamı üzerine yazıları.
-*   🖋️ **`edebi_yansimalar/`**: Şem ve Pervane metaforları, ilahi aşk uğruna canı feda etme temaları. Sadece metin değil, **Hüsn-i Hat (Kaligrafi) ve görsel sanat** eserlerine de açıktır.
-*   🪞 **`ismailini_bulmak/`**: Ali Şeriati okumaları, sosyolojik değerlendirmeler, ümmet bilinci, modern çağın putları ve insanın kendini dünyaya kurban etmesi üzerine eleştiriler.
-*   💬 **`alintilar.md`**: İslam alimlerinden, mutasavvıflardan ve düşünürlerden kurban, hiçlik ve teslimiyet üzerine vurucu aforizmaların derlendiği ana kaynak.
+*   📖 **`kuran_ve_sunnet/`**: Kur'an ve hadis okumaları.
+    *   [Hz. Hacer'in Teslimiyeti ve Sa'y İbadeti](kuran_ve_sunnet/hz_hacer_ve_say.md)
+    *   [Hac ve Saffat Sureleri Tefsiri](kuran_ve_sunnet/hac_ve_saffat_tefsiri.md)
+*   📜 **`tasavvuf_ve_irfan/`**: Tasavvufi teslimiyet.
+    *   [Fena Fillah ve Hiçlik Makamı](tasavvuf_ve_irfan/fena_fillah_ve_hiclik.md)
+    *   [Rıza Makamı ve Tevekkül](tasavvuf_ve_irfan/riza_makami.md)
+*   🖋️ **`edebi_yansimalar/`**: Divan edebiyatında metaforlar.
+    *   [Şem ve Pervane](edebi_yansimalar/sem_ve_pervane.md)
+*   🪞 **`ismailini_bulmak/`**: Sosyolojik incelemeler.
+    *   [Modern Çağın Putları ve Oto-Sömürü](ismailini_bulmak/modern_cagin_putlari.md)
+*   💬 **`alintilar.md`**: Vurucu aforizmaların ana kaynağı. [Dosyaya git](alintilar.md)
 
 ---
 
 ## 🤝 Katkıda Bulunma
 
-Bu depo, tefekkür eden, okuyan ve teslimiyetin sırrını arayan herkese açıktır. Eğer Kurban, takva, hiçlik (fena), adanmışlık, sosyolojik ümmet bilinci veya nefsi feda etmek üzerine İslami, tasavvufi bir metin, makale çevirisi veya ayet/hadis/alıntı biliyorsanız;
+Bu depo, tefekkür eden, okuyan ve teslimiyetin sırrını arayan herkese açıktır. Repoya içerik, yazı veya sanat eseri eklemek için kurallarımızı ve formatlarımızı öğrenmek adına mutlaka **[Katkıda Bulunma Rehberi (CONTRIBUTING.md)](CONTRIBUTING.md)** dosyasını okuyunuz.
 
-1. Bu repoyu "Fork"layın.
-2. İlgili klasöre metninizi veya `.md` dosyanızı (hatta konuyla ilgili görsel tasarımlarınızı) ekleyin.
-3. Bir "Pull Request" (PR) oluşturun.
+## ⚖️ Lisans
+
+Bu projenin içeriği **Creative Commons Attribution 4.0 International (CC BY 4.0)** lisansı ile lisanslanmıştır. Uygun kaynak gösterdiğiniz sürece özgürce paylaşabilir ve kullanabilirsiniz. Detaylar için **[LICENSE](LICENSE)** dosyasına bakınız.
 
 *Hiçlikte ve sükûnette, O'nun rızasında buluşmak dileğiyle.*
