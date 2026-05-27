@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.png" alt="Teslimiyet ve Hiçlik Banner" width="100%" />
+</div>
+
 # 🗡️ Teslimiyet ve Hiçlik
 
 > *"Onların ne etleri ne de kanları asla Allah'a ulaşır. Fakat O'na sadece sizden takvâ (Allah'a karşı gelmekten sakınma, sorumluluk bilinci) ulaşır..."*  
